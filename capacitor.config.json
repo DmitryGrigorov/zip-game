@@ -1,0 +1,6 @@
+{
+  "appId": "com.zipgame.pathpuzzle",
+  "appName": "Zip Path Puzzle",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Zip Path Puzzle</string>
+    <string name="title_activity_main">Zip Path Puzzle</string>
+    <string name="package_name">com.zipgame.pathpuzzle</string>
+    <string name="custom_url_scheme">com.zipgame.pathpuzzle</string>
+</resources>
